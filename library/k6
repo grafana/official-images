@@ -4,7 +4,6 @@ Maintainers: Nedyalko Andreev <nedyalko@k6.io> (@na--),
              Ivan Palladino <ivanpalladino@k6.io> (@codebien),
              Simon Aronsson <simme@k6.io> (@simskij),
              Pawel Suwala <pawel@k6.io> (@sniku)
-
 GitRepo: https://github.com/grafana/k6.git
 
 Tags: 0.33, latest
