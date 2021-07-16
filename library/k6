@@ -1,8 +1,8 @@
-Maintainers: Nedyalko Andreev <nedyalko@k6.io> (@na--)
-             Ivan Mirić <ivan@k6.io> (@imiric)
-             Mihail Stoykov <mihail@k6.io> (@mstoykov)
-             Ivan Palladino <ivanpalladino@k6.io> (@codebien)
-             Simon Aronsson <simme@k6.io> (@simskij)
+Maintainers: Nedyalko Andreev <nedyalko@k6.io> (@na--),
+             Ivan Mirić <ivan@k6.io> (@imiric),
+             Mihail Stoykov <mihail@k6.io> (@mstoykov),
+             Ivan Palladino <ivanpalladino@k6.io> (@codebien),
+             Simon Aronsson <simme@k6.io> (@simskij),
              Pawel Suwala <pawel@k6.io> (@sniku)
 
 GitRepo: https://github.com/grafana/k6.git
