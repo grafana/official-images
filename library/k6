@@ -9,7 +9,9 @@ GitRepo: https://github.com/grafana/k6.git
 Tags: 0.33, latest
 Architectures: amd64
 GitCommit: cc0361ca4a5443e5b90d22b4c0e62a9f15c9757d
+File: Dockerfile
 
 Tags: 0.32
 Architectures: amd64
 GitCommit: 5e42319785addea437c38b31f92870a10447c8dd
+File: Dockerfile
